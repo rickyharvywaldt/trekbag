@@ -5,7 +5,7 @@ export default function AddItemForm() {
     <form>
       <h2>Add an item</h2>
       <input type="text" />
-      <Button />
+      <Button type="primary">Add to list</Button>
     </form>
   );
 }
