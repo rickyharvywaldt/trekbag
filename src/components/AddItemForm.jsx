@@ -27,6 +27,7 @@ export default function AddItemForm({ onAddItem }) {
         ref={inputRef}
         value={itemText}
         onChange={handleChange}
+        placeholder="Toothpaste..."
         autoFocus
       />
       <Button buttonType="primary">Add to list</Button>
