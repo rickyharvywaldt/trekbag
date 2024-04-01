@@ -15,10 +15,3 @@ export const INITIALITEMS = [
     packed: false,
   },
 ];
-
-export const SECONDARYBUTTONS = [
-  "Mark all as complete",
-  "Mark all as incomplete",
-  "Reset to initial",
-  "Remove all items",
-];
