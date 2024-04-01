@@ -29,7 +29,7 @@ export default function AddItemForm({ onAddItem }) {
         onChange={handleChange}
         autoFocus
       />
-      <Button type="primary">Add to list</Button>
+      <Button buttonType="primary">Add to list</Button>
     </form>
   );
 }
